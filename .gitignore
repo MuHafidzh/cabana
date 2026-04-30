@@ -1,6 +1,3 @@
 moc_*
 *.moc
-
-cabana
-dbc/car_fingerprint_to_dbc.json
-tests/test_cabana
+.vscode/
