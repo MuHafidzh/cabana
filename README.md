@@ -5,6 +5,7 @@ Cabana is a tool developed to view raw CAN data. One use for this is creating an
 ## Usage Instructions
 
 ```bash
+$ sudo apt install qtbase5-dev libqt5charts5-dev libqt5serialbus5-dev libcapnp-dev
 $ ./cabana -h
 Usage: ./cabana [options] route
 
